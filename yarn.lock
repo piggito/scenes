@@ -3411,9 +3411,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@grafana/scenes@workspace:*, @grafana/scenes@workspace:packages/scenes":
+"@piggito/scenes@workspace:*, @piggito/scenes@workspace:packages/scenes":
   version: 0.0.0-use.local
-  resolution: "@grafana/scenes@workspace:packages/scenes"
+  resolution: "@piggito/scenes@workspace:packages/scenes"
   dependencies:
     "@emotion/css": 11.10.5
     "@emotion/react": 11.10.5
@@ -24555,7 +24555,7 @@ __metadata:
     "@grafana/e2e-selectors": 10.0.2
     "@grafana/eslint-config": 5.0.0
     "@grafana/runtime": 10.0.3
-    "@grafana/scenes": "workspace:*"
+    "@piggito/scenes": "workspace:*"
     "@grafana/schema": 10.0.3
     "@grafana/tsconfig": 1.2.0-rc1
     "@grafana/ui": 10.0.3
